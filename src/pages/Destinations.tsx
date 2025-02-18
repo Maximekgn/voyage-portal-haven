@@ -2,7 +2,7 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import DestinationCard from "@/components/DestinationCard";
-import destinations from "@/data.json";
+import destinations from "@/data/destinations.json";
 const Destinations = () => {
   return (
     <div className="min-h-screen bg-white">

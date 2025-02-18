@@ -18,7 +18,7 @@ const About = () => {
                 Notre Histoire
               </h1>
               <p className="text-lg text-travel-600 mb-8 leading-relaxed">
-                Depuis plus de 15 ans, Voyage Elite s'engage à créer des expériences de voyage uniques et mémorables. Notre passion pour l'excellence et notre attention aux détails nous ont permis de devenir l'une des agences de voyage les plus respectées.
+                Depuis plus de 15 ans, KGN-Voyage s'engage à créer des expériences de voyage uniques et mémorables. Notre passion pour l'excellence et notre attention aux détails nous ont permis de devenir l'une des agences de voyage les plus respectées.
               </p>
               <Button className="bg-travel-800 hover:bg-travel-700">
                 Découvrir nos valeurs

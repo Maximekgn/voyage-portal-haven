@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-playfair font-semibold mb-4">
-              Voyage Elite
+              KGN-Voyage
             </h3>
             <p className="text-travel-300 text-sm leading-relaxed">
               Votre partenaire de confiance pour des voyages inoubliables et des expériences uniques à travers le monde.
@@ -74,7 +74,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-travel-800 mt-8 pt-8 text-center text-travel-400 text-sm">
-          © {new Date().getFullYear()} Voyage Elite. Tous droits réservés.
+          © {new Date().getFullYear()}KGN-Voyage. Tous droits réservés.
         </div>
       </div>
     </footer>

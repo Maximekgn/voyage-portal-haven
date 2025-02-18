@@ -38,7 +38,7 @@ const Navbar = () => {
               to="/"
               className="text-2xl font-playfair font-bold text-travel-800"
             >
-              Voyage Elite
+              KGN-Voyage
             </Link>
           </div>
 
