@@ -52,11 +52,11 @@ const Index = () => {
                 key={index}
                 className="group relative overflow-hidden rounded-lg shadow-lg transition-transform duration-300 hover:-translate-y-2"
               >
-                <div className="aspect-w-16 aspect-h-9">
+                <div className="relative w-full h-[300px]">
                   <img
                     src={destination.image}
                     alt={destination.name}
-                    className="object-cover w-full h-full"
+                    className="absolute inset-0 w-full h-full object-cover"
                   />
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
